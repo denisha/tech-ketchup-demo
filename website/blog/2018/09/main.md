@@ -1,0 +1,47 @@
+# Tech Ketchup
+
+#### September 2018
+
+## Contents
+
+## Ginger Ninja
+
+![Kyle](KyleStore.jpg)
+
+I grew up on a farm (as all gingers do) and most of my days were spent riding and training horses. I knew not much of this world of technology we know today. Fast track through school (a bald ginger kid that rode horses . . . .  I even bullied myself at school).
+
+I started my career as a VB developer and then moved to greener full-stack web development pastures where I stayed grazing with the herd for 5 years. In my spare time I spent studying databases and started to love the way data flows. At this stage I was a little lost ginger developer and started playing with a whole bunch of different work, some Project Management, BA, QA and Release Management work before I moved to Cape Town and met Global Kinetic for the first time.
+
+GK presented me with a Support Role and I decided to take it up a new adventure. The strangest thing happened, I started to really enjoy the role, the sleepless evenings, the chaos and mostly the people losing their minds when production servers go down. I received the name "Ginger Ninja" from a few things: I would fight you to the death to get my point across, I would sit at your desk for hours (even follow you home if needed) until you gave me the answers I needed but most of all because. . . . . . you aint ginger enough to understand the secrets.
+
+Anyway now we are here, GK’s Ginger Guy.
+
+My hobbies include: Sleepless nights, stressful situations, complete chaos and telling my wife that we cannot have another fluffy animal. Sometimes… just sometimes …I am allowed to go hiking, enjoy psy festivals and read Terry Pratchett books (I would suggest you read the book "Mort" as reference to the GN).
+
+The ginger ninja knows what you have broken and is coming to get you!!!
+
+## From Mark
+
+Wow another month has gone by with only 3 months remaining. I can't believe how quickly 2018 is hurtling towards an end.
+
+The Tech Lead team is working hard with the project teams to implement identified DevOps processes. Some of you have already had meetings with the Tech Leads regarding this initiative. For those of you that have not been given feedback be patient as the Tech Leads will arrange a session with your PM.
+Please work with the Tech Leads to ensure the company DevOps improvement project is a success. This is to benefit all projects and will assist in making all our projects more technically efficient.
+
+Andris has written a very interesting piece regarding DevOps in this months newsletter and I encourage everyone to read it.
+
+There has been a number of highlights this month. Apple and Google making new hardware announcements.
+
+I attended the AWS Start-up event hosted by Amazon on 13 September. It was quite an interesting event where I met quite a few people with great start-up ideas.
+I was surprised to learn that South Africa has 47 registered VC companies. There are SA tax laws (Section 12J) that incentivise SA companies and individuals to invest in the VC scene.
+
+The South African VC scene is nowhere near as large as in the US but is definitely helping start-ups in SA. Amazon is also playing a role in this by helping companies during that start-up period and providing technical expertise.
+
+Another interesting event this month was the .NET Conf 2018 online event which was hosted 12-14 September by Microsoft and the .Net community. Channel 9 is hosting all the videos at <https://channel9.msdn.com/Events/dotnetConf/2018> if anyone is interested.
+
+The Cape Town Microsoft Developer User Group (CTMSUG) will be hosting a local session for the event on 24 October. You can signup for the session at <https://www.meetup.com/Cape-Town-Ms-Dev-User-Group/events/252930675/>.
+
+If there are any events that you would like us to highlight in the newsletter then please drop us an email and we'll include it in the next newsletter.
+
+## Feedback and Questions
+
+Please send any questions, suggestions or otherwise to tech-ketchup@globalkinetic.com
