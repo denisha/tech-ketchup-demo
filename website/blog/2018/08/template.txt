@@ -1,8 +1,0 @@
-main.md
- dot-net.md
- front-end.md
- android.md
- ios.md
- java.md
- data.md
- qa.md
