@@ -191,3 +191,21 @@ For more information about custom pages, click [here](https://docusaurus.io/docs
 # Full Documentation
 
 Full documentation can be found on the [website](https://docusaurus.io/).
+
+
+Run the local webserver in docker
+Ensure you have previously installed docker.
+
+To run the local webserver:
+
+Build the docker image -- Enter the folder where you have Docusaurus installed. Run docker build -t docusaurus-doc .
+
+Once the build phase finishes, you can verify the image exists by running docker images.
+
+We now include a Dockerfile when you install Docusaurus.
+
+Run the Docusaurus container -- To start docker run docker run --rm -p 3000:3000 docusaurus-doc
+
+This will start a docker container with the image docusaurus-doc. To see more detailed container info run docker ps .
+
+
